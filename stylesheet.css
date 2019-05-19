@@ -1,0 +1,94 @@
+* {
+  padding:0;
+  margin:0;
+}
+header{
+  position: fixed;
+  background-color: #3E5879;
+  width:100%
+}
+
+header ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: transparent;
+}
+
+header li {
+  float: left;
+}
+
+header li a {
+  display: block;
+  color: #EFEE82;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family: 'Roboto' , sans-serif;
+}
+
+header li a:hover {
+  background-color: rgb(223, 86, 86);
+}
+
+#logo{
+  width:20vh;
+  height: 20vh;
+}
+
+#hero-image{
+  background-image: url("images/background.jpg");
+  height:40%;
+  width:100%;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  
+}
+
+#hero-image div{
+  background-color:rgba(255,255,255,0.5);
+  text-align: center;
+  padding-top: 25%;
+  padding-bottom:20%;
+}
+
+#hero-image{
+  font-family: 'Roboto', sans-serif;
+  color:black;
+}
+
+#hero-image h1{
+  font-size: 50px;
+}
+
+#hero-image p{
+  font-size:50px;
+}
+
+@media only screen and (max-width: 600px){
+  #hero-image h1{
+    font-size: 2em;
+  }
+  #hero-image p{
+    font-size: 1.8em;
+  }
+  /* header li{
+    display: none;
+  } */
+}
+#skills {
+  width:100%;
+  background-color: #3E5879;
+  height: 50%;
+  font-family: 'Roboto', sans-serif;
+
+}
+
+#skills h1{
+  text-align: center;
+  color: #EFEE82;
+  
+}
+
