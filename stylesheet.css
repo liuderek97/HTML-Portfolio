@@ -266,6 +266,7 @@ section p {
   .project-info {
     padding-bottom: 15vh;
     overflow: auto;
+    overflow-x: auto;
   }
 
   #projects-row2{
