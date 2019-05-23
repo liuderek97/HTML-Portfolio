@@ -25,7 +25,7 @@ The portfolio website contains the following information:
 
 ## Sitemap
 
-![Sitemap](/images/Sitemap.png)
+<img align="left" src="images/Sitemap.png" width="800" >
 
 
 
