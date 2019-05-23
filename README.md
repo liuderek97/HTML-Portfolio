@@ -36,10 +36,10 @@ The portfolio website contains the following information:
 
 
 <img align="left" src="images/Home Screen Shot.png" width="800" >
+<br />
 
 
-
-<img align="center" src="images/Projects screenshot.png" width="700" >
+<img align="center" src="images/Projects Screenshot.png" width="800" >
 
 
 
