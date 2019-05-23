@@ -33,3 +33,4 @@ The portfolio website contains the following information:
 
 
 
+![Home Screen Shot](/Users/derekliu/Desktop/Gentech/HTML/HTML-Assignment/images/Home Screen Shot.png)
