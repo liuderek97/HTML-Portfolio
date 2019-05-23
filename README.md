@@ -36,7 +36,7 @@ The portfolio website contains the following information:
 
 
 
-<img align="left" src="images/Home Screen Shot.png" width="800" padding-bottom: 10;> 
+<img align="left" src="images/Home Screen Shot.png" width="800"> <br /> <br />  
 
 
 
