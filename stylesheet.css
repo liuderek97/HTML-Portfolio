@@ -130,7 +130,7 @@ header li a:hover {
 }
 
 #projects-row2{
-  padding-top:5vh;
+  padding-top:50px;
   display: flex;
   justify-content: space-around;
   padding-bottom: 15vh;
