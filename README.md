@@ -36,14 +36,14 @@ The portfolio website contains the following information:
 
 
 
-<img align="left" src="images/Home Screen Shot.png" width="1000"  />  
+<img src="images/Home Screen Shot.png"   />  
 
-<img align="center" src="images/Projects Screenshot.png" width="1000"  /> 
+<img src="images/Projects Screenshot.png" /> 
 
-<img align="left" src="images/Projects pt2 screenshot.png" width="1000"  />  
+<img src="images/Projects pt2 screenshot.png" >  
 
-<img align="left" src="images/Skills screenshot.png" width="1000"  />  
+<img src="images/Skills screenshot.png" />  
 
-<img align="left" src="images/Skills Pt2.png" width="1000"  />  
+<img src="images/Skills Pt2.png"  />  
 
-<img align="left" src="images/About screenshot.png" width="1000"  />
+<img src="images/About screenshot.png" />
