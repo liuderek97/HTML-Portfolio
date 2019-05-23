@@ -27,11 +27,7 @@ The portfolio website contains the following information:
 
 <img src="images/Sitemap.png" >
 
-## Website Screenshots
-
-### Desktop Screenshots
-
-
+### Website Screenshots - Desktop Screenshots
 
 
 <img src="images/Home Screen Shot.png"   />  
@@ -50,3 +46,8 @@ The portfolio website contains the following information:
 
 
 <img src="images/About screenshot.png" />
+
+### Website Screenshots - Mobile Screenshots
+
+
+
