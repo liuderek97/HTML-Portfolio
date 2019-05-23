@@ -35,7 +35,10 @@ The portfolio website contains the following information:
 
 
 
+
 <img align="left" src="images/Home Screen Shot.png" width="800" > <br/>
+
+
 
 
 
@@ -45,7 +48,12 @@ The portfolio website contains the following information:
 
 
 
+
+
 <img align="left" src="images/Projects pt2 screenshot.png" width="800" >   
+
+
+
 
 
 
@@ -53,7 +61,15 @@ The portfolio website contains the following information:
 
 
 
+
+
+
+
 <img align="left" src="images/Skills Pt2.png" width="800" > 
+
+
+
+
 
 
 
