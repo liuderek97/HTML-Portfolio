@@ -25,21 +25,21 @@ The portfolio website contains the following information:
 
 ## Sitemap
 
-<img align="left" src="images/Sitemap.png" width="800" >
+<img align="left" src="images/Sitemap.png" width="700" >
 
 
-
+ 
 ## Website Screenshots
 
 ### Desktop Screenshots
-<br/>
+
 
 
 <img align="left" src="images/Home Screen Shot.png" width="800" >
 
 
 
-<img align="left" src="images/Projects screenshot.png" width="800" >
+<img align="center" src="images/Projects screenshot.png" width="800" >
 
 
 
