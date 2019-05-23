@@ -33,41 +33,35 @@ The portfolio website contains the following information:
 
 ### Desktop Screenshots
 
+```
 <img align="left" src="images/Home Screen Shot.png" width="800" >
 
+```
 
-
+```
 <img align="left" src="images/Projects screenshot.png" width="800" >
 
+```
 
-
+```
 <img align="left" src="images/Projects pt2 screenshot.png" width="800" >  
 
+```
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+```
 <img align="left" src="images/Skills screenshot.png" width="800" >
 
+```
 
-
+```
 <img align="left" src="images/Skills Pt2.png" width="800" >
 
+```
 
-
+```
 <img align="left" src="images/About screenshot.png" width="800" >   
 
-
+```
 
 
 
