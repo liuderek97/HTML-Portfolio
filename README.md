@@ -33,6 +33,6 @@ The portfolio website contains the following information:
 
 ### Desktop Screenshots
 
-![Home Screen Shot](/images/Home Screen Shot.png)
+<img align="left" src="images/Home Screen Shot.png" width="200" >![Home Screen Shot](/images/Home Screen Shot.png)
 
 
