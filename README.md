@@ -47,7 +47,7 @@ The portfolio website contains the following information:
 
 <img src="images/About screenshot.png" />
 
-### Website Screenshots - Mobile Screenshots
+## Website Screenshots - Mobile Screenshots
 
 
 
