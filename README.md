@@ -25,7 +25,7 @@ The portfolio website contains the following information:
 
 ## Sitemap
 
-![Sitemap](/Users/derekliu/Desktop/Gentech/HTML/HTML-Assignment/images/Sitemap.png)
+![Sitemap](/images/Sitemap.png)
 
 
 
@@ -33,4 +33,4 @@ The portfolio website contains the following information:
 
 
 
-![Home Screen Shot](/Users/derekliu/Desktop/Gentech/HTML/HTML-Assignment/images/Home Screen Shot.png)
+![Home Screen Shot](/images/Home Screen Shot.png)
