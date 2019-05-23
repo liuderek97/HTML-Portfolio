@@ -39,7 +39,7 @@ The portfolio website contains the following information:
 
 
 
-<img align="center" src="images/Projects screenshot.png" width="800" >
+<img align="center" src="images/Projects screenshot.png" width="700" >
 
 
 
