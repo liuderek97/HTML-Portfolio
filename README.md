@@ -31,6 +31,6 @@ The portfolio website contains the following information:
 
 ## Website Screenshots
 
-
-
 ![Home Screen Shot](/images/Home Screen Shot.png)
+
+
