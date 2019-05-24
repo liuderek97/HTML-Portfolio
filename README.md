@@ -101,7 +101,7 @@ Khroma is an online color pallete picker that allows for users to view a number 
 
 Google Fonts is an online of free licensed fonts and was the main resource that was used when choosing a suitable font for the design. Google fonts was also used as it had a large collection of fonts and made finding fonts easy and accessible. The chosen font for the website was: Robot sans serif. Roboto was chosen as it was subjectively the most aesthetic font and would fit well with the overall theme of the site.
 
-<img src="Google Fonts Screenshot.png">
+<img src="images/Google Fonts Screenshot.png">
 
 
 
