@@ -85,7 +85,7 @@ In order to come up with a design scheme for the site the following resources we
 
 ### Pinterest
 
-Pinterest is an social media application that allows users to upload and view images, as well as create a collection of images called "Pinterest Boards". Pinterest was employed to create a moodboard in order to gain inspiration for a web layout theme, as well as colour them. A moodboard was created and a number of thematically  similar websites were added to the moodboard to help narrow down the design scheme. After creating a moodboard Khroma was then utilised to select the colours.
+Pinterest is an social media application that allows users to upload and view images, as well as create a collection of images called "Pinterest Boards". Pinterest was employed to create a moodboard in order to gain inspiration for a web layout theme, as well as colour theme. A moodboard was created and a number of thematically  similar websites were added to the moodboard to help narrow down the design scheme. The theme that was decided upon was a simplistic and clean theme with cool light colours. After creating a moodboard Khroma was then utilised to select the colours.
 
 Moodboard Link: <https://www.pinterest.com.au/liuderek97/website-mood-board/>
 
