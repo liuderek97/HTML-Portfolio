@@ -25,51 +25,29 @@ The portfolio website contains the following information:
 
 ## Sitemap
 
-<img align="left" src="images/Sitemap.png" width="1000" >
+<img src="images/Sitemap.png" >
+
+## Website Screenshots - Desktop Screenshots
 
 
- 
-## Website Screenshots
-
-### Desktop Screenshots
+<img src="images/Home Screen Shot.png"   />  
 
 
-
-<img align="left" src="images/Home Screen Shot.png" width="800" >
-
+<img src="images/Projects Screenshot.png" /> 
 
 
-<img align="center" src="images/Projects screenshot.png" width="800" >
+<img src="images/Projects pt2 screenshot.png" >  
 
 
+<img src="images/Skills screenshot.png" />  
 
 
-<img align="left" src="images/Projects pt2 screenshot.png" width="800" >  
+<img src="images/Skills Pt2.png"  />  
 
 
+<img src="images/About screenshot.png" />
 
-
-<img align="left" src="images/Skills screenshot.png" width="800" >
-
-
-
-
-<img align="left" src="images/Skills Pt2.png" width="800" >
-
-
-
-
-<img align="left" src="images/About screenshot.png" width="800" >   
-
-
-
-
-
-
-
-
-
-
+## Website Screenshots - Mobile Screenshots
 
 
 
