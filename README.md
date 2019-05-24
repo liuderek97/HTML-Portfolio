@@ -72,3 +72,19 @@ In order to complete and deploy this website I utilised the following tech stack
 * CSS3
 * Netify; to deploy the live site
 * Github
+
+## Design Process
+
+In order to come up with a design scheme for the site the following resources were used:
+* Pinterest
+* Khroma color picker
+
+### Pinterest
+
+Pinterest is an social media application that allows users to upload and view images, as well as create a collection of images called "Pinterest Boards". Pinterest was employed to create a moodboard in order to gain inspiration for a web layout theme, as well as colour them. A moodboard was created and a number of thematically  similar websites were added to the moodboard to help narrow down the design scheme. After creating a moodboard Khroma was then utilised to select the colours.
+
+Moodboard Link: <https://www.pinterest.com.au/liuderek97/website-mood-board/>
+
+### Khroma
+
+Khroma is an online color pallete picker that allows for users to view a number of color palletes and gradients based on the user color preferences. Khroma was the main color picking pallete tool that was utilised in the design process, in order to come up with an aesthetic color scheme that fitted the desired theme. After using Khroma the following colours were selected to be used in the website:
