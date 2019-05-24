@@ -8,7 +8,7 @@
 
 ### <u>Website Link</u>
 
-<https://derekliuportfolio.netlify.com](https://derekliuportfolio.netlify.com/>
+<https://derekliuportfolio.netlify.com/>
 
 ## Purpose
 
