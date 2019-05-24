@@ -92,10 +92,12 @@ Moodboard Link: <https://www.pinterest.com.au/liuderek97/website-mood-board/>
 
 Khroma is an online color pallete picker that allows for users to view a number of color palletes and gradients based on the user color preferences. Khroma was the main color picking pallete tool that was utilised in the design process, in order to come up with an aesthetic color scheme that fitted the desired theme. After using Khroma the following colours were selected to be used in the website:
 
-<img src="images/Khroma Screenshot">
+<img src="images/Khroma Screenshot.png">
 
 
 ### Trello
 
 In order to keep on top of the Project a Trello board was created to ensure that each task and step of the design process was planned out and to ensure that each task had a deadline. When a task was created, a deadline was assigned to the specific task, the task status would then be updated or commented about if any progress had been made.
+
+<img src="Trello Screenshot.png">
 
