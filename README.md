@@ -81,6 +81,7 @@ In order to come up with a design scheme for the site the following resources we
 * Google Fonts
 * trello 
 * Balsamiq Mockups
+* Github
 
 ### Pinterest
 
@@ -98,7 +99,9 @@ Khroma is an online color pallete picker that allows for users to view a number 
 
 ### Google Fonts
 
-Google Fonts is an online of free licensed fonts and was the main resource that was used when choosing a suitable font for the design. Google fonts was also used as it had a large collection of fonts and made finding fonts easy and accessible. The chosen font for the website was: Robot sans serif.
+Google Fonts is an online of free licensed fonts and was the main resource that was used when choosing a suitable font for the design. Google fonts was also used as it had a large collection of fonts and made finding fonts easy and accessible. The chosen font for the website was: Robot sans serif. Roboto was chosen as it was subjectively the most aesthetic font and would fit well with the overall theme of the site.
+
+<img src="Google Fonts Screenshot.png">
 
 
 
@@ -127,6 +130,9 @@ Balsamiq is wireframing tool that was employed during the plannnig stages of the
 
 <img src="images/Contact Me Screenshot.png">
 
+### Github
+
+Github was the chosen platform for application version control. Github was chosen due to the fact that it would allow for the code to be available on multiple devices. Any changes made to the code would be documented during the committing stage. This allowed anyone working on the project to constantly be aware of any major changes to the code and keep up to date with the latest revisions of the project. 
 
 ### Logo
 
@@ -134,6 +140,12 @@ The website Logo was created using canva and is used on the about me page.
 
 <img src="images/logo.png">
 
+
+### Usability Considerations
+
+When designing the website the main design philosophy was to always present the user with useful information and ensure that the user had a way of quickly and easily navgigating the site. In order to do this a clean and simplistic design philosophy was adopted and implemented into the site. When first arriving at the site the user is presented with a hero image and text explaining to the user the purpose of the site and allowning the user to navigate to other sites such as linkedin, github and twitter. The website also has a sticky navabr that is always present on the screen in order to allow for the user to jump top a desired section. The sticky navbar that is consistently present was also implemented as the website itself is quite long, and the navbar eliminates the need for the user to scroll.
+
+The website also provides certain feedback to the user to allow them to instantaneously be aware of their actions. For example when hovering over a certaing project or skill the icon will enlargen and change colour. Furthermore whenever a user clicks on a link that leads to an external site, the link is opened up in a new tab. This will allow the user to access the site more easily as it will prevent backtracking for the user. The implemention of smooth when clicking on a link was implemented as the website wasn't long enough to the point where smooth scrolling would hinder the progress of the user, and would make for a more aesthetically pleasing experience for ther user in contrast to instant jumping to certain section. The font size was also made to be relatively large to allow access to users with poor eyesight.
 
                                           
                                            
