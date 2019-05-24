@@ -49,5 +49,26 @@ The portfolio website contains the following information:
 
 ## Website Screenshots - Mobile Screenshots
 
+<img src="images/Mobile Screenshot.png">
 
 
+<img src="images/Mobile projects screenshot.png">
+
+
+<img src="images/Mobile Skills Screenshot.png">
+
+
+<img src="images/About mobile screenshot.png">
+
+
+## Targert Audience 
+
+The main target audience for this site are potential employees, collaborators or individuals who would like to learn more about my technology background and skills and personal portfolio.
+
+## Tech Stacks Used
+
+In order to complete and deploy this website I utilised the following tech stacks:
+* HTML5
+* CSS3
+* Netify; to deploy the live site
+* Github
