@@ -79,7 +79,7 @@ In order to come up with a design scheme for the site the following resources we
 * Pinterest
 * Khroma color picker
 * trello 
-* Balsamiq
+* Balsamiq Mockups
 
 ### Pinterest
 
@@ -102,10 +102,27 @@ In order to keep on top of the Project a Trello board was created to ensure that
 
 <img src="images/Trello Screenshot.png">
 
-### Balsamiq
+### Balsamiq Mockups
 
-Balsamiq is wireframing tool that was employed during the plannnig stages of the project in order to create rough and schematic layout of how the website would look. Several wireframes were created using balsamiq and the wireframes created were representative of how the site would look. Wireframes were created for different devices such as desktop mobile and different mobile phone models. Balsamiq and the creation of wireframes was imperative to the design process as it provided a scheme to follow and a reference point for the styling of the site on different devices.
+Balsamiq is wireframing tool that was employed during the plannnig stages of the project in order to create rough and schematic layout of how the website would look. Several wireframes were created using balsamiq and the wireframes created were representative of how the site would look. Wireframes were created for different devices such as desktop mobile and different mobile phone models. Balsamiq and the creation of wireframes was imperative to the design process as it provided a scheme to follow and a reference point for the styling of the site on different devices. After the creation of the wireframes for all devices the development of the site was then commenced.
 
 
-## Wireframing
+### Wireframes
 
+<img src="images/Home Page Screenshot.png">
+
+<img src="images/Projects wireframe Screenshot.png">
+
+<img src="images/Skills wireframe Screenshot.png">
+
+<img src="images/About wireframe Screenshot.png">
+
+<img src="images/Experience Screenshot.png">
+
+<img src="images/Contact Me Screenshot.png">
+
+
+
+                                          
+                                           
+                                         
