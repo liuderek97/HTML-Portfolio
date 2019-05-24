@@ -79,6 +79,7 @@ In order to come up with a design scheme for the site the following resources we
 * Pinterest
 * Khroma color picker
 * trello 
+* Balsamiq
 
 ### Pinterest
 
@@ -99,5 +100,12 @@ Khroma is an online color pallete picker that allows for users to view a number 
 
 In order to keep on top of the Project a Trello board was created to ensure that each task and step of the design process was planned out and to ensure that each task had a deadline. When a task was created, a deadline was assigned to the specific task, the task status would then be updated or commented about if any progress had been made.
 
-<img src="Trello Screenshot.png">
+<img src="images/Trello Screenshot.png">
+
+### Balsamiq
+
+Balsamiq is wireframing tool that was employed during the plannnig stages of the project in order to create rough and schematic layout of how the website would look. Several wireframes were created using balsamiq and the wireframes created were representative of how the site would look. Wireframes were created for different devices such as desktop mobile and different mobile phone models. Balsamiq and the creation of wireframes was imperative to the design process as it provided a scheme to follow and a reference point for the styling of the site on different devices.
+
+
+## Wireframing
 
