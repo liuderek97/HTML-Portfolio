@@ -78,6 +78,7 @@ In order to complete and deploy this website I utilised the following tech stack
 In order to come up with a design scheme for the site the following resources were used:
 * Pinterest
 * Khroma color picker
+* Google Fonts
 * trello 
 * Balsamiq Mockups
 
@@ -94,6 +95,11 @@ Moodboard Link: <https://www.pinterest.com.au/liuderek97/website-mood-board/>
 Khroma is an online color pallete picker that allows for users to view a number of color palletes and gradients based on the user color preferences. Khroma was the main color picking pallete tool that was utilised in the design process, in order to come up with an aesthetic color scheme that fitted the desired theme. After using Khroma the following colours were selected to be used in the website:
 
 <img src="images/Khroma Screenshot.png">
+
+### Google Fonts
+
+Google Fonts is an online of free licensed fonts and was the main resource that was used when choosing a suitable font for the design. Google fonts was also used as it had a large collection of fonts and made finding fonts easy and accessible. The chosen font for the website was: Robot sans serif.
+
 
 
 ### Trello
