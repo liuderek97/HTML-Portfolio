@@ -126,7 +126,7 @@ Balsamiq is wireframing tool that was employed during the plannnig stages of the
 
 The website Logo was created using canva and is used on the about me page.
 
-<img src="images/logo.png>
+<img src="images/logo.png">
 
 
                                           
