@@ -81,7 +81,7 @@ In order to come up with a design scheme for the site the following resources we
 * Google Fonts
 * trello 
 * Balsamiq Mockups
-* Github
+* GitHub
 
 ### Pinterest
 
@@ -130,9 +130,11 @@ Balsamiq is wireframing tool that was employed during the plannnig stages of the
 
 <img src="images/Contact Me Screenshot.png">
 
-### Github
+### GitHub
 
 Github was the chosen platform for application version control. Github was chosen due to the fact that it would allow for the code to be available on multiple devices. Any changes made to the code would be documented during the committing stage. This allowed anyone working on the project to constantly be aware of any major changes to the code and keep up to date with the latest revisions of the project. 
+
+<img src="images/Github Screenshot.png">
 
 ### Logo
 
