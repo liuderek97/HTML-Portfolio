@@ -124,7 +124,7 @@ Balsamiq is wireframing tool that was employed during the plannnig stages of the
 
 <img src="images/Skills wireframe Screenshot.png">
 
-<img src="images/About wireframe Screenshot.png">
+<img src="images/About Wireframe .png">
 
 <img src="images/Experience Screenshot.png">
 
@@ -202,6 +202,17 @@ The website also provides certain feedback to the user to allow them to instanta
 
 ## Trello Board Timeline
 
+<img src="images/Trello Day1.png">
+
+<img src="images/Trello Day2.png">
+
+<img src="images/Trello Day3.png">
+
+<img src="images/Trello Day4.png">
+
+<img src="images/Trello Day5.png">
+
+<img src="images/Trello Day6.png">
 
 ## Short Answers
 
