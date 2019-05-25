@@ -202,16 +202,22 @@ The website also provides certain feedback to the user to allow them to instanta
 
 ## Trello Board Timeline
 
+### Day 1
 <img src="images/Trello Day1.png">
 
+### Day 2
 <img src="images/Trello Day2.png">
 
+### Day 3
 <img src="images/Trello Day3.png">
 
+### Day 4
 <img src="images/Trello Day4.png">
 
+### Day 5
 <img src="images/Trello Day5.png">
 
+### Day 6
 <img src="images/Trello Day6.png">
 
 ## Short Answers
