@@ -4,7 +4,7 @@
 
 ### <u>GitHub Link</u>
 
-<https://github.com/liuderek97/HTML-Portfolio>
+<https://github.com/liuderek97/HTML-Portfolio/tree/master>
 
 ### <u>Website Link</u>
 
@@ -124,7 +124,7 @@ Balsamiq is wireframing tool that was employed during the plannnig stages of the
 
 <img src="images/Skills wireframe Screenshot.png">
 
-<img src="images/About wireframe Screenshot.png">
+<img src="images/About Wireframe .png">
 
 <img src="images/Experience Screenshot.png">
 
@@ -190,7 +190,7 @@ The website also provides certain feedback to the user to allow them to instanta
 * Add previous work experience to the site 
 * Add contact details
 * Add CSS animations
-* Edit bugs
+* Fix bugs
 * Complete site today
 * Further Documentation of progress
 * Update Trello Board
@@ -202,6 +202,17 @@ The website also provides certain feedback to the user to allow them to instanta
 
 ## Trello Board Timeline
 
+<img src="images/Trello Day1.png">
+
+<img src="images/Trello Day2.png">
+
+<img src="images/Trello Day3.png">
+
+<img src="images/Trello Day4.png">
+
+<img src="images/Trello Day5.png">
+
+<img src="images/Trello Day6.png">
 
 ## Short Answers
 
