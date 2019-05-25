@@ -4,7 +4,7 @@
 
 ### <u>GitHub Link</u>
 
-<https://github.com/liuderek97/HTML-Portfolio>
+<https://github.com/liuderek97/HTML-Portfolio/tree/master>
 
 ### <u>Website Link</u>
 
@@ -190,7 +190,7 @@ The website also provides certain feedback to the user to allow them to instanta
 * Add previous work experience to the site 
 * Add contact details
 * Add CSS animations
-* Edit bugs
+* Fix bugs
 * Complete site today
 * Further Documentation of progress
 * Update Trello Board
