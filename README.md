@@ -154,9 +154,14 @@ The website also provides certain feedback to the user to allow them to instanta
 ```
 Describe key events in the development of the internet from the 1980s to today
 ```
-In the year 1981 the commencement of operation of the Computer Science Network (CSNET) provided networking services to university computer scientists. By the year 1982 the CSNET connected 24 global sites. This was revolutionary for the development of the internet as it became the backbone of the internet that is used widely in the present day.
+In 1981 the commencement of operation of the Computer Science Network (CSNET) provided networking services to university computer scientists. By the year 1982 the CSNET connected 24 global sites becoming the backbone of the internet that is used widely in the present day.
 
-In the year 198
+In November of 1983, Jon Postel, Paul Mockapetris and Craig Partridge develop the Domain Name System (DNS) and recommend the use of the now familiar user@host.domain addressing system. 
+
+In 1986 TCP/IP is available on workstations and PCs such as the newly introduced Compaq portable computer. In 1989 Tim Berners-Lee proposes that a hypertext system that will run across the Internet on different operating systems. This became known as the World Wide Web
+
+In 1990 ARPANET formally shuts down. The internet has grown from 4 to over 300,000 hosts. The number of networks exceeds 7,500 and the number of computers connected passes 1,000,000. 
+
 
 ```
 Define and describes the relationship between fundamental aspects of the internet such as: domains, web servers, DNS, and web browsers
@@ -168,3 +173,5 @@ Domain Name System maintains a directory of domain names and translate them to I
 ```
 Reflect on one aspect of the development of internet technologies and how it has contributed to the world today 
 ```
+
+The availability and increased accessibility as a result of internet trasnfer protocols has contributed to the world today as it allows for information to be shared globally. As a result a this highly accessible information transfer, education has been vastly improved as it has been made more accessible to individuals as they have easier and instantaneous access to a variety of educational resources. The internet has also provided an opportunity for companies to expand their ventures through digital marketing, internet banking and Ecommerce. Companies are now able to analyse customer data and buying habits, and create suitable marketing strategies based on the data that they have collected. Furthermore the accessibilty of information made possible by the internet creates the possibility of making societies around the globe stronger, developed and more intelligent. 
