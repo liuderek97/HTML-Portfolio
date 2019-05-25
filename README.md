@@ -147,8 +147,17 @@ The website Logo was created using canva and is used on the about me page.
 
 When designing the website the main design philosophy was to always present the user with useful information and ensure that the user had a way of quickly and easily navgigating the site. In order to do this a clean and simplistic design philosophy was adopted and implemented into the site. When first arriving at the site the user is presented with a hero image and text explaining to the user the purpose of the site and allowning the user to navigate to other sites such as linkedin, github and twitter. The website also has a sticky navabr that is always present on the screen in order to allow for the user to jump top a desired section. The sticky navbar that is consistently present was also implemented as the website itself is quite long, and the navbar eliminates the need for the user to scroll.
 
-The website also provides certain feedback to the user to allow them to instantaneously be aware of their actions. For example when hovering over a certaing project or skill the icon will enlargen and change colour. Furthermore whenever a user clicks on a link that leads to an external site, the link is opened up in a new tab. This will allow the user to access the site more easily as it will prevent backtracking for the user. The implemention of smooth when clicking on a link was implemented as the website wasn't long enough to the point where smooth scrolling would hinder the progress of the user, and would make for a more aesthetically pleasing experience for ther user in contrast to instant jumping to certain section. The font size was also made to be relatively large to allow access to users with poor eyesight.
+The website also provides certain feedback to the user to allow them to instantaneously be aware of their actions. For example when hovering over a certain project or skill the icon will enlargen and change colour. Furthermore whenever a user clicks on a link that leads to an external site, the link is opened up in a new tab. This will allow the user to access the site more easily as it will prevent backtracking for the user. The implemention of smooth when clicking on a link was implemented as the website wasn't long enough to the point where smooth scrolling would hinder the progress of the user, and would make for a more aesthetically pleasing experience for ther user in contrast to instant jumping to certain section. The font size was also made to be relatively large to allow access to users with poor eyesight. 
 
-                                          
-                                           
-                                         
+
+
+```
+Describe key events in the development of the internet from the 1980s to today
+```
+
+
+
+
+​                                           
+​                                         
+
