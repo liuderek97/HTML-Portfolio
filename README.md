@@ -149,7 +149,61 @@ When designing the website the main design philosophy was to always present the 
 
 The website also provides certain feedback to the user to allow them to instantaneously be aware of their actions. For example when hovering over a certain project or skill the icon will enlargen and change colour. Furthermore whenever a user clicks on a link that leads to an external site, the link is opened up in a new tab. This will allow the user to access the site more easily as it will prevent backtracking for the user. The implemention of smooth when clicking on a link was implemented as the website wasn't long enough to the point where smooth scrolling would hinder the progress of the user, and would make for a more aesthetically pleasing experience for ther user in contrast to instant jumping to certain section. The font size was also made to be relatively large to allow access to users with poor eyesight. 
 
+## Project Plan and Timeline
 
+### Day 1
+
+* Create Trello Board
+* Collect theme ideas and create moodboard on Pinterest
+* Identify a colour scheme to be used on the site
+* Use Khroma to collect colours to use
+* Create wirframes of the site
+* Commence documentation
+* Collect all past projects and upload to GitHub
+
+
+### Day 2
+
+* Begin the HTML and CSS of the site
+* Complete the Home page and implement responsiveness
+* Documentation
+* Update Trello Board
+
+### Day3 
+
+* Complete the projects page
+* implement responsiveness for projects section
+* Further Documentation of progress
+* Update Trello Board
+
+### Day 4
+
+* Complete the Skills page 
+* Implment responsiveness for Skills page
+* Complete the About page
+* Implement responsiveness for the About page
+* Further Documentation of progress
+* Update Trello Board
+
+### Day 5
+
+* Add previous work experience to the site 
+* Add contact details
+* Add CSS animations
+* Edit bugs
+* Complete site today
+* Further Documentation of progress
+* Update Trello Board
+
+### Day 6
+
+* Complete documentation including short answers
+* Fix any bugs present on the site
+
+## Trello Board Timeline
+
+
+## Short Answers
 
 ```
 Describe key events in the development of the internet from the 1980s to today
