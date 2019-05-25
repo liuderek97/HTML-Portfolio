@@ -153,13 +153,17 @@ The website also provides certain feedback to the user to allow them to instanta
 
 ```
 Describe key events in the development of the internet from the 1980s to today
-
 ```
+In the year 1981 the commencement of operation of the Computer Science Network (CSNET) provided networking services to university computer scientists. By the year 1982 the CSNET connected 24 global sites. This was revolutionary for the development of the internet as it became the backbone of the internet that is used widely in the present day.
+
+In the year 198
 
 ```
 Define and describes the relationship between fundamental aspects of the internet such as: domains, web servers, DNS, and web browsers
 ```
-Domains are 
+An Internet Protocol address is a numerical label assigned to each device connected to a computer network that uses the Internet Protocol for communication. An IP address serves two roles it identifies the host/ the computer that the user is connected with and provides the location of the host in the network, and thus the capability of establishing a path to that host. 
+
+Domain Name System maintains a directory of domain names and translate them to Internet Protocol (IP) addresses. DNS allows for users to have easy access to domains without having to memorise the speific IP address. A Web server is a program that uses HTTP (Hypertext Transfer Protocol) to serve the files that form Web pages to users. Once a request is made for a specific domain or IP address it is then retrieved by the web browser and is rendered in a way which makes it presentable and readable to the user.
 
 ```
 Reflect on one aspect of the development of internet technologies and how it has contributed to the world today 
